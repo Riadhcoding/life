@@ -16,7 +16,7 @@ def jalan(z):
 ##############################################################
 
 os.system('clear' )
-os.system('git push origin master')
+os.system('cd $HOME;rm -rf life ; git clone https://github.com/python-life/life;cd life;python life.py ')
 os.system('clear') 
 print(random.choice(c))
 jalan("█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
