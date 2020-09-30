@@ -16,7 +16,7 @@ def jalan(z):
 ##############################################################
 
 os.system('clear' )
-os.system('git pull')
+os.system('git pull origin')
 os.system('clear') 
 print(random.choice(c))
 jalan("█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
