@@ -24,7 +24,7 @@ jalan("█  ╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗  █")
 jalan("█  ║║║╠─║─║─║║║║║╠─  █")
 jalan("█  ╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝  █")
 jalan("█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█")
-print ("python life") 
+print ("python i'ts my life") 
 
 
 time.sleep(2)
