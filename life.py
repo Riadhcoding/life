@@ -25,7 +25,7 @@ jalan("█  ╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗  █")
 jalan("█  ║║║╠─║─║─║║║║║╠─  █")
 jalan("█  ╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝  █")
 jalan("█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█")
-print ("python life") 
+print ("python life - python life") 
 
 
 time.sleep(2)
@@ -129,7 +129,7 @@ elif choose == '5':
     time.sleep(0.3)
 ##############################################################
 elif choose == '6':
-    tool_list = input(" \033[1;36mType the path for the tool: ")
+    tool_list = str(input(" \033[1;36mType the path for the tool: "))
     compileall.compile_file(tool_list)
     jalan('\033[1;31mEncryption successful')
     jalan("\033[1;36mSave to /sdcard/__pycache__") 
